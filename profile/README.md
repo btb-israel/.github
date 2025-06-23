@@ -1,1 +1,6 @@
-# This is a official Be The Bank organization account.
+# Who we are
+
+From its start in 2014, Be The Bank has pioneered a very different kind of social lending platform. Founded on a revolutionary idea that an investment or loan does not need to be controlled by a traditional bank.
+Since its inception, BTB has promoted legislation that allows the public in Israel to benefit from the field of social lending – as investors or business owners seeking a loan. Through the use of advanced financial technology, BTB has succeeded in revolutionizing and creating real competition in the credit market in Israel. This enables everyone to invest in Israeli businesses while earning the most competitive rates.
+
+That’s a little about our platform but we’re only as good as our people. This approach has enabled our leadership team of Shlomi Turgeman and Alon Katz, who act as co-CEO to put our investors and borrowers first in all of our decisions. Supported by the company’s board of directors, which include Danny Chrust – Chairman of the Board, Iris shalgi and Eli Kadosh, who among them have decades of experience in the field of banking and are among the foremost economic experts in Israel. We work hard so you don’t have to. We love our work - and love success. We are technological, we are human, we are responsive and professional. We are banking of the future. We are BTB.
